@@ -1,0 +1,23 @@
+{
+  "name": "doc-customiser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jimmaclean@github.com/jimmaclean/doc-customiser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmaclean/doc-customiser/issues"
+  },
+  "homepage": "https://github.com/jimmaclean/doc-customiser#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.10"
+  }
+}
